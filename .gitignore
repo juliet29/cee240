@@ -1,0 +1,3 @@
+*.pdf
+!spec/*.json
+.DS_STORE

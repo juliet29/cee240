@@ -1,0 +1,193 @@
+,activities,index,act_ordered
+0,"Increment 1, Sector B (Lev G,1,2): Demo, Superstructure, Building Envelope",,
+1,"lay pipes, conduits sub-GL, sector B",25.1,NTP
+2,submit shut down request for facilities,1,submit shut down request for facilities
+3,"erect temp barrier, GL 6.5, M.4",3,"demo ceilings  GL 6.5, M.4"
+4,"MEP in deck GL, sector B",29,"erect temp barrier, GL 6.5, M.4"
+5,"MEP in deck 1L, sector B",33,demo exterior walls  GL 5.7 M
+6,"MEP in deck 2L, sector B",38,demo interior walls  GL 5.7 - 7.1 M.4
+7,"erect temp barrier, west of new main connector, GL, Sector B",46,"remove, salvage column covers,  GL 7.1 M"
+8,remove roof assembly 2L (E),49,"demo ceilings 1L 7.1, M.4"
+9,"remove parapet, coping  2L (E)",50,"remove, dispose 8"" san. sewer GL 5.7 D.4"
+10,erect construction barrier  2L (E),51,erect temp barrier 1L M.4
+11,remove ext window  2L (E),52,demo exterior walls  1L 5.7 M
+12,demo part of exterior wall  2L (E),53,demo interior walls  1L 6.5 M.4
+13,NTP,0,"remove, salvage column covers,  GL 7.1 M"
+14,"demo ceilings  GL 6.5, M.4",2,"remove, dispose 6"" forced storm line GL 6.5 D.4 - M.4 "
+15,demo exterior walls  GL 5.7 M,4,"cut and cap 6"" storm drain GL 5.7 M.4 - N"
+16,demo interior walls  GL 5.7 - 7.1 M.4,5,raise ext. conduit into ceiling cavity GL 10.5 B
+17,"remove, salvage column covers,  GL 7.1 M",6,"verify location of underground utilities sub-GL, Sector B"
+18,"remove, dispose 8"" san. sewer GL 5.7 D.4",7,"demo existing slab as needed  sub-GL, Sector B"
+19,"remove, dispose 6"" forced storm line GL 6.5 D.4 - M.4 ",12,"excavate soil sub-GL, Sector B"
+20,"cut and cap 6"" storm drain GL 5.7 M.4 - N",13,"excavate elevator pit  sub-GL, Sector B"
+21,raise ext. conduit into ceiling cavity GL 10.5 B,14,"erect shoring, timber lagging sub-GL, Sector B"
+22,"verify location of underground utilities sub-GL, Sector B",15,"install piles sub-GL, Sector B"
+23,"demo existing slab as needed  sub-GL, Sector B",16,"formwork, rebar, for pile caps sub-GL, Sector B"
+24,"excavate soil sub-GL, Sector B",17,"install anchor and bolt connections to moment frame sub-GL, Sector B"
+25,"excavate elevator pit  sub-GL, Sector B",18,"pour concrete, strip formwork for pile caps sub-GL, Sector B"
+26,"erect shoring, timber lagging sub-GL, Sector B",19,"formwork for footing  sub-GL, Sector B"
+27,"install piles sub-GL, Sector B",20,"rebar, pour, strip footings GL, Sector B"
+28,"formwork, rebar, for pile caps sub-GL, Sector B",21,"formwork for foundations sub-GL, Sector B"
+29,"install anchor and bolt connections to moment frame sub-GL, Sector B",22,"lay pipes, conduits sub-GL, sector B"
+30,"pour concrete, strip formwork for pile caps sub-GL, Sector B",23,"subgrade preparation GL, Sector B"
+31,"rebar, pour, strip footings GL, Sector B",24,"vapor barrier GL, Sector B"
+32,"formwork for foundations sub-GL, Sector B",25,"rebar connecting new foundations to (E) GL, Sector B"
+33,"subgrade preparation GL, Sector B",26,"MEP in deck GL, sector B"
+34,"vapor barrier GL, Sector B",27,"rebar, pour, strip foundations GL, Sector B"
+35,"rebar connecting new foundations to (E) GL, Sector B",28,"erect columns GL, Sector B"
+36,"rebar, pour, strip foundations GL, Sector B",30,"erect beams GL, Sector B"
+37,"erect columns GL, Sector B",31,"MEP in deck 1L, sector B"
+38,"erect beams GL, Sector B",32,"erect steel deck 1L, Sector B"
+39,"erect steel deck 1L, Sector B",34,"erect concrete deck  1L, Sector B"
+40,"erect concrete deck  1L, Sector B",35,"erect columns 1L, Sector B"
+41,"erect columns 1L, Sector B",36,"erect beams 1L, Sector B"
+42,"erect beams 1L, Sector B",37,"MEP in deck 2L, sector B"
+43,"erect steel deck 2L, Sector B",39,"erect steel deck 2L, Sector B"
+44,"erect concrete deck 2L, Sector B",40,"erect concrete deck 2L, Sector B"
+45,"erect columns 2L, Sector B",41,"erect columns 2L, Sector B"
+46,"erect steel deck 3L, Sector B",42,"erect steel deck 3L, Sector B"
+47,"curtain wall GL, Sector B",43,"curtain wall GL, Sector B"
+48,"erect temp barrier, west of new main connector, 1L, Sector B",47,"curtain wall 1L, Sector B"
+49,"curtain wall 1L, Sector B",44,"curtain wall 2L, Sector B"
+50,"formwork for footing  sub-GL, Sector B",23.1,"erect temp barrier, west of new main connector, GL, Sector B"
+51,"erect temp barrier, west of new main connector, 2L, Sector B",48,"erect temp barrier, west of new main connector, 1L, Sector B"
+52,"curtain wall 2L, Sector B",45,"erect temp barrier, west of new main connector, 2L, Sector B"
+53,"demo ceilings 1L 7.1, M.4",7,remove roof assembly 2L (E)
+54,erect temp barrier 1L M.4,8,"remove parapet, coping  2L (E)"
+55,demo exterior walls  1L 5.7 M,9,erect construction barrier  2L (E)
+56,demo interior walls  1L 6.5 M.4,10,remove ext window  2L (E)
+57,"remove, salvage column covers,  GL 7.1 M",11,demo part of exterior wall  2L (E)
+58,"Increment 2, Phase 1: Interior Build Out",-,
+59,Sector B (Lev G),-,
+60,"rough in ceiling MEP work GL, sector B",,
+61,"install interior non-rated partitions GL, Sector B",,
+62,"finish MEP work GL, sector B",,
+63,"install flooring GL, Sector B",,
+64,"install SDA GL, Sector B",,
+65,"erect ceiling in connector area GL, Sector B",,
+66,"install underslung elevator GL, Sector B",,
+67,"install column covers in connector area GL, Sector B",,
+68,"re-install column covers GL, Sector B",,
+69,"re-install roll down door with egress GL, Sector B",,
+70,"install doors at storage GL, Sector B",,
+71,"remove temp barrier GL, Sector B",,
+72,"perform patching work as needed  GL, Sector B",,
+73,"paint walls GL, Sector B",,
+74,"install floor finishes GL, Sector B",,
+75,"install ceilings finishes GL, Sector B",,
+76,"testing and commissioning GL, Sector B",,
+77,"erect temp barrier GL, Sector B",,
+78,"demo interior barrier GL, Sector B",,
+79,"demo ceiling entirely GL, Sector B",,
+80,"install seismic joints GL, Sector B",,
+81,"erect interior barriers GL, Sector B",,
+82,"rough in wall MEP work GL, sector B",,
+83,"plaster walls GL, Sector B",,
+84,"demo DDA GL, Sector B",,
+85,"relocate DDA to other side of room GL, Sector B",,
+86,Sector B (Lev 1),,
+87,"rough in ceiling MEP work 1L, sector B",,
+88,"install interior partitions 1L, Sector B",,
+89,"install flooring at spec. locations 1L, Sector B",,
+90,"finish MEP work 1L, sector B",,
+91,"install underslung elevator 1L, Sector B",,
+92,"testing and commissioning 1L, Sector B",,
+93,"erect temp barrier 1L, Sector B",,
+94,"erect interim construction tunnel 1L, Sector B",,
+95,"demo interior fire barrier, DDA 1L, Sector B",,
+96,"demo interior partitions 1L, Sector B",,
+97,"install seismic joints 1L, Sector B",,
+98,"remove, salvage door for meditation room 1L, Sector B",,
+99,"remove, salvage column covers 1L, Sector B",,
+100,"rough in wall MEP work 1L, sector B",,
+101,"install cieling at spec. locations 1L, Sector B",,
+102,"install column covers in connector area 1L, Sector B",,
+103,"install roll down door with egress 1L, Sector B",,
+104,"replace mediation room door 1L, Sector B",,
+105,"remove temp barriers and tunnel 1L, Sector B",,
+106,"remove temp barrier 1L, Sector B",,
+107,"perform patching work as needed  1L, Sector B",,
+108,"plaster walls 1L, Sector B",,
+109,"paint walls 1L, Sector B",,
+110,"install floor finishes 1L, Sector B",,
+111,"install ceiling finishes 1L, Sector B",,
+112,Sector B (Lev 2),,
+113,"testing and commissioning 1L, Sector B",,
+114,"erect int. 2hr partitions 2L, Sector A",,
+115,"erect int. 1hr partitions 2L, Sector A",,
+116,"erect int. non-rated partitions 2L, Sector A",,
+117,"rough in ceiling  MEP work 2L, sector A",,
+118,"rough in wall MEP work 2L, sector A",,
+119,"install flooring at spec. locations 2L, Sector A",,
+120,"finish MEP work 2L, sector A",,
+121,"erect ceilings in elevator lobby 2L, Sector A",,
+122,"install underslung elevator 2L, Sector A",,
+123,"install column covers in connector area 2L, Sector A",,
+124,"install DDA between IMOB and elevator 2L, Sector A",,
+125,"remove temp barrier 2L, Sector A",,
+126,"perform patching work as needed 2L, Sector A",,
+127,"plaster walls 2L, Sector A",,
+128,"paint walls 2L, Sector A",,
+129,"install floor finishes 2L, Sector A",,
+130,"install ceiling finishes 2L, Sector A",,
+131,Sector A (Lev G),,
+132,"demo ext. walls at IMOB connection GL, Sector A",,
+133,"demo all ceilings, salvage lights GL, Sector A",,
+134,"install seismic joints GL, Sector A",,
+135,"rough in  wall MEP work GL, sector A",,
+136,"remove temp barrier GL, Sector A",,
+137,"perform patching work as needed  GL, Sector A",,
+138,"erect temp barrier GL, Sector A",,
+139,"install ext. DDA GL, Sector A",,
+140,"rough in ceiling  MEP work GL, sector A",,
+141,"install interior non-rated partitions GL, Sector A",,
+142,"finish MEP work GL, sector A",,
+143,"replace light fixtures 1L, Sector A",,
+144,"plaster walls GL, Sector A",,
+145,"paint walls GL, Sector A",,
+146,"install floor finishes GL, Sector A",,
+147,"install ceiling finishes GL, Sector A",,
+148,"testing and commissioning GL, Sector A",,
+149,Sector A (Lev 1) needs to be after sector b,,
+150,"rough in ceiling MEP work 1L, sector A",,
+151,"install interior non-rated partitions, door 1L, Sector A",,
+152,"finish MEP work 1L, sector A",,
+153,"install equipment, casework 1L, Sector A",,
+154,"install side coiling security door 1L, Sector A",,
+155,"erect ceilings 1L, Sector A",,
+156,"replace light fixtures 1L, Sector A",,
+157,"create opening at south exterior side of wall 1L, Sector A",,
+158,"install roll down door with egress 1L, Sector A",,
+159,"remove temp barrier 1L, Sector A",,
+160,"perform patching work as needed  1L, Sector A",,
+161,"erect temp barrier 1L, Sector A",,
+162,"remove, salvage column covers 1L, Sector A",,
+163,"demo interior partitions and SDA 1L, Sector A",,
+164,"demo all ceilings, salvage lights 1L, Sector A",,
+165,"install seismic joints GL, Sector A",,
+166,"rough in wall MEP work 1L, sector A",,
+167,"reinstall column covers 1L, Sector A",,
+168,"Increment 2, Phase 2: Interior Build Out",,
+169,Sector A (Lev 1),,
+170,"wait until New Main Connector occupancy 1L, Sector A",,
+171,"wait until proposed IMOB occupancy 1L, Sector A",,
+172,"erect temp barrier 1L, Sector A",,
+173,"demo 2hr partition and DDA 1L, Sector A",,
+174,"rough in MEP work GL, sector A",,
+175,"erect interior partitions and SDA 1L, Sector A",,
+176,"finish MEP work GL, sector A",,
+177,"install ceilings 1L, Sector A",,
+178,"remove temp barriers 1L, Sector A",,
+179,"perform patching work as needed 1L, Sector A",,
+180,"plaster walls 1L, Sector A",,
+181,"paint walls 1L, Sector A",,
+182,"install floor finishes 1L, Sector A",,
+183,"install cieling finsihes 1L, Sector A",,
+184,"testing and commissioning 1L, Sector A",,
+185,Courtyard,,
+186,install trees Courtyard,,
+187,install concrete paving Courtyard,,
+188,install light fixtures Courtyard,,
+189,install courtyard furnishings Courtyard,,
+190,protect trees Courtyard,,
+191,install resin paving  Courtyard,,
