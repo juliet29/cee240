@@ -1,0 +1,36 @@
+,0,1
+BP 1A Structural Concrete,1.0,1.0
+BP 1B Exterior Glass & GFRC,0.0,1.0
+BP 1C Shoring,1.0,1.0
+BP 1D HVAC & Plumbing,0.566,0.566
+BP 1E Electrical,0.569,0.569
+BP 1F Elevators,0.028,0.028
+BP 2A Drywall & Metal Framing,0.167,0.167
+BP 2B Fire Protection,0.0,0.0
+BP 2C Structural Steel,0.902,1.0
+BP 3A Drilled Piers,1.0,1.0
+BP 3B Reinforcing Steel,0.529,0.529
+BP 3C Grading & Paving,0.167,0.167
+BP 3D Demo,0.561,0.561
+BP 4A Metal Decking,0.667,1.0
+BP 4B Roofing & Waterproofing,0.0,0.0
+BP 4D Flashing & Sheetmetal,0.0,0.0
+BP 4E Controls,0.0,0.0
+BP 4F Millwork,0.0,0.0
+BP 4G Misc Metals,0.0,0.0
+"BP 4H Doors, Frames, Hardware",0.5,0.5
+BP 4I Smoke Curtains,0.0,0.0
+BP 4J Coiling Doors,1.0,1.0
+BP 4K Interior Glass,0.0,0.0
+BP 4L Pneumatic Tube,0.0,0.0
+BP 4M Surveying,0.0,0.0
+BP 5A Acoustic Ceiling,0.0,0.0
+BP 5B Ceramic Tile,0.0,0.0
+BP 5C Test & Balance,0.4,0.4
+BP 5D Painting,0.4,0.4
+BP 5E Resilient Flooring,0.4,0.4
+BP 5F Misc Specialties,0.333,0.333
+BP 6A Landscaping,0.0,0.0
+BP 6B Wall Protection,0.5,0.5
+General Requirements,1.0,1.0
+Temporary Construction,0.5,0.7
