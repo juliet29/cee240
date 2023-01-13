@@ -24,6 +24,7 @@ idna==3.4
 ipykernel==6.17.1
 ipython==8.7.0
 ipython-genutils==0.2.0
+jax==0.3.25
 jedi==0.18.2
 Jinja2==3.0.3
 joblib==1.2.0
@@ -46,6 +47,8 @@ nest-asyncio==1.5.6
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.22.3
+numpy-stl==3.0.0
+opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.1
 pandocfilters==1.5.0
@@ -66,6 +69,7 @@ Pygments==2.13.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
+python-utils==3.4.5
 pytz==2022.1
 pyzmq==24.0.1
 requests==2.28.1
